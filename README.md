@@ -689,7 +689,6 @@ This will remove:
 - `*.spec` files (PyInstaller spec files)
 
 **Note:** This only removes build artifacts, not your source code. The cleanup is safe and will ask for confirmation before proceeding.
-```
 
 ---
 
@@ -780,3 +779,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 [⬆ Back to Top](#react2shell-r2s---cve-2025-55182-testing-tool)
 
 </div>
+
