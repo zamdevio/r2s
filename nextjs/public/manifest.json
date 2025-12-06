@@ -1,0 +1,32 @@
+{
+  "name": "R2S Arena - React2Shell Testing Platform",
+  "short_name": "R2S Arena",
+  "description": "React2Shell Testing Platform for CVE-2025-55182 vulnerability assessment",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["security", "developer", "utilities"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
+
